@@ -38,15 +38,17 @@ div#home + section > div.tm-content-box.flex-2-col {
 #about, section.heading, .blocks, #ideas, #ideas + .tm-content-box  {
 	box-shadow: 0px 0px 5px 2px grey; 
 }
-
-div.tm-content-box.flex-2-col::before {
-		content: "";
-        display: block;
-        border-top: 40px solid #87CEFA;
-        border-right: 300px solid transparent;
-        position: absolute;
-        top: 0;
-
+section {
+	position: relative;
+}
+section .padding-medium::before, #tmCarousel  {
+	content: "";
+	display: block;
+	border-top: 40px solid #87CEFA;
+	border-right: 300px solid transparent;
+	position: absolute;
+	top: 0;
+	left: 0px;   
 }
 div.carousel-content > div.flex-item > h2 {
 	color: gainsboro;
@@ -73,7 +75,6 @@ a[class="text"]::after {
 	vertical-align: 8px;
 	color: red;
 }
-
 li.box-work {
 	padding: 10px;
 }
@@ -89,7 +90,6 @@ li.box-work:nth-child(2n){
 	color: red;
 	position: absolute;
 	left: 96%;
-
 }
 button.btn {
 	color: #87CEFA;
@@ -100,24 +100,18 @@ button.btn {
 	border-color: #87CEFA;
 	background-color: white;
 }
-
 button.btn:hover {
 	background-color: #9fd8fb;
 	border-color: #87cefa;
 	border-width: 1px;
 }
-
-/*input[type='email']::after {
-	content: '*';
-}*/
-/*img[class="img-fluid"] {
-	width: 345px;
-}*/
-
+.tm-nav-item a:hover {
+	background-color: #D3D3D3;
+}
 @media print {
-	p::first-letter {
-	font-size: 30px;
-	color: #87CEFA;
+		p::first-letter {
+		font-size: 30px;
+		color: #87CEFA;
 	}
 	.tm-sidebar {
 		display: none;
@@ -168,16 +162,13 @@ button.btn:hover {
 		margin-left: 50px;
 	}
 
-	#about, .heading, .blocks, #ideas, section.tm-content-box {
+	#about, .heading, .blocks, #ideas, section.tm-content-box, section .padding-medium::before {
 		display: none;
 	}
 	footer.tm-footer {
 		background-color: white;
 		padding-bottom: 80px;
 		margin-top: -30px
-	}
-	div.tm-content-box.flex-2-col::before {
-		display: none;
 	}
 	p.text-xs-center {
 		margin-top: 20px;
