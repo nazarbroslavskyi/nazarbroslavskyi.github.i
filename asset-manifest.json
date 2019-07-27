@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/https://nazarbroslavskyi.github.i/static/css/main.d7a19141.chunk.css",
-    "main.js": "/https://nazarbroslavskyi.github.i/static/js/main.f55b8137.chunk.js",
-    "main.js.map": "/https://nazarbroslavskyi.github.i/static/js/main.f55b8137.chunk.js.map",
-    "runtime~main.js": "/https://nazarbroslavskyi.github.i/static/js/runtime~main.5c9501bf.js",
-    "runtime~main.js.map": "/https://nazarbroslavskyi.github.i/static/js/runtime~main.5c9501bf.js.map",
-    "static/js/2.e736923e.chunk.js": "/https://nazarbroslavskyi.github.i/static/js/2.e736923e.chunk.js",
-    "static/js/2.e736923e.chunk.js.map": "/https://nazarbroslavskyi.github.i/static/js/2.e736923e.chunk.js.map",
-    "index.html": "/https://nazarbroslavskyi.github.i/index.html",
-    "precache-manifest.7b5facbcc724cbc406be52f308d5678e.js": "/https://nazarbroslavskyi.github.i/precache-manifest.7b5facbcc724cbc406be52f308d5678e.js",
-    "service-worker.js": "/https://nazarbroslavskyi.github.i/service-worker.js",
-    "static/css/main.d7a19141.chunk.css.map": "/https://nazarbroslavskyi.github.i/static/css/main.d7a19141.chunk.css.map"
+    "main.css": "/nazarbroslavskyi.github.i/static/css/main.d7a19141.chunk.css",
+    "main.js": "/nazarbroslavskyi.github.i/static/js/main.f55b8137.chunk.js",
+    "main.js.map": "/nazarbroslavskyi.github.i/static/js/main.f55b8137.chunk.js.map",
+    "runtime~main.js": "/nazarbroslavskyi.github.i/static/js/runtime~main.5c72ca33.js",
+    "runtime~main.js.map": "/nazarbroslavskyi.github.i/static/js/runtime~main.5c72ca33.js.map",
+    "static/js/2.e736923e.chunk.js": "/nazarbroslavskyi.github.i/static/js/2.e736923e.chunk.js",
+    "static/js/2.e736923e.chunk.js.map": "/nazarbroslavskyi.github.i/static/js/2.e736923e.chunk.js.map",
+    "index.html": "/nazarbroslavskyi.github.i/index.html",
+    "precache-manifest.fa66c5d0a0f791227f738d93eaf2313a.js": "/nazarbroslavskyi.github.i/precache-manifest.fa66c5d0a0f791227f738d93eaf2313a.js",
+    "service-worker.js": "/nazarbroslavskyi.github.i/service-worker.js",
+    "static/css/main.d7a19141.chunk.css.map": "/nazarbroslavskyi.github.i/static/css/main.d7a19141.chunk.css.map"
   }
 }
