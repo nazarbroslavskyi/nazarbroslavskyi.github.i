@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.d7a19141.chunk.css",
-    "main.js": "/static/js/main.f55b8137.chunk.js",
-    "main.js.map": "/static/js/main.f55b8137.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.e736923e.chunk.js": "/static/js/2.e736923e.chunk.js",
-    "static/js/2.e736923e.chunk.js.map": "/static/js/2.e736923e.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.558166b5e0116375316eaa0e7158ab40.js": "/precache-manifest.558166b5e0116375316eaa0e7158ab40.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.d7a19141.chunk.css.map": "/static/css/main.d7a19141.chunk.css.map"
+    "main.css": "/https://nazarbroslavskyi.github.i/static/css/main.d7a19141.chunk.css",
+    "main.js": "/https://nazarbroslavskyi.github.i/static/js/main.f55b8137.chunk.js",
+    "main.js.map": "/https://nazarbroslavskyi.github.i/static/js/main.f55b8137.chunk.js.map",
+    "runtime~main.js": "/https://nazarbroslavskyi.github.i/static/js/runtime~main.5c9501bf.js",
+    "runtime~main.js.map": "/https://nazarbroslavskyi.github.i/static/js/runtime~main.5c9501bf.js.map",
+    "static/js/2.e736923e.chunk.js": "/https://nazarbroslavskyi.github.i/static/js/2.e736923e.chunk.js",
+    "static/js/2.e736923e.chunk.js.map": "/https://nazarbroslavskyi.github.i/static/js/2.e736923e.chunk.js.map",
+    "index.html": "/https://nazarbroslavskyi.github.i/index.html",
+    "precache-manifest.7b5facbcc724cbc406be52f308d5678e.js": "/https://nazarbroslavskyi.github.i/precache-manifest.7b5facbcc724cbc406be52f308d5678e.js",
+    "service-worker.js": "/https://nazarbroslavskyi.github.i/service-worker.js",
+    "static/css/main.d7a19141.chunk.css.map": "/https://nazarbroslavskyi.github.i/static/css/main.d7a19141.chunk.css.map"
   }
 }
